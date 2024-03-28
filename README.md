@@ -3,9 +3,8 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 # 📊 GitHub Stats:
-![](![zbr7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zbr7&theme=dracula&show_icons=true&hide_border=true&layout=compact))<br/>
-![](![zbr7's Stats](https://github-readme-stats.vercel.app/api?username=zbr7&theme=dracula&show_icons=true&hide_border=true&count_private=true))<br/>
-![]![zbr7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zbr7&theme=dracula&show_icons=true&hide_border=true&layout=compact)))
+![zbr7's Stats](https://github-readme-stats.vercel.app/api?username=zbr7&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![zbr7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zbr7&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zBr7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
