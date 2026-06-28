@@ -1,5 +1,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/867056899148480593)](https://discord.com/users/867056899148480593)
-<h1 align="center">Hi 👋, I'm Kratoi</h1>
+<h1 align="center">Hi 👋, I'm bubu</h1>
 <h3 align="center">idk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brzzera&label=Profile%20views&color=0e75b6&style=flat" alt="brzzera" /> </p>
