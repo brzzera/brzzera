@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/3lphzqu2czzzjgduwv79si",
+    "name": "For Whom The Bell Tolls - Remastered",
+    "artist": "Metallica",
+    "album": "Ride The Lightning (Deluxe / Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27396a926d07aea417327ea024a",
+    "url": "https://open.spotify.com/track/3LpHzQU2CZzZJGdUWV79SI",
+    "listened_at": "2026-08-29T22:13:19.475Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/755bvjdsa3lncnufgbt9lk",
+    "name": "Iron Man - 2009 Remaster",
+    "artist": "Black Sabbath",
+    "album": "Paranoid",
+    "image": "https://i.scdn.co/image/ab67616d0000b273605b25c031f809d78054a13c",
+    "url": "https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK",
+    "listened_at": "2026-08-29T22:13:06.295Z"
+  },
+  {
     "key": "https://open.spotify.com/track/0ti8tp4fitvpoehptysx48",
     "name": "Iron Man",
     "artist": "Black Sabbath",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273e654530c95824550c7c9eac1",
     "url": "https://open.spotify.com/track/349flwjNbqIaE0Mph3jLGD",
     "listened_at": "2026-08-29T21:56:19.545Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/349flwjnbqiae0mph3jlgd",
-    "name": "A mais pedida (feat. Érika Martins)",
-    "artist": "Raimundos, Érika Martins",
-    "album": "Só No Forevis",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e654530c95824550c7c9eac1",
-    "url": "https://open.spotify.com/track/349flwjNbqIaE0Mph3jLGD",
-    "listened_at": "2026-08-29T21:52:33.156Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/0snqkgi5qnamohle7jtstn",
-    "name": "Toxicity",
-    "artist": "System Of A Down",
-    "album": "Toxicity",
-    "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
-    "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
-    "listened_at": "2026-08-29T21:52:25.268Z"
   }
 ]
