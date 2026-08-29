@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/7snqqk1zckl8gz92anuezw",
+    "name": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "album": "Appetite For Destruction",
+    "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+    "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+    "listened_at": "2026-08-29T20:18:28.983Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/57brrmwf9lrcmuosygilwr",
+    "name": "Crawling",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (Bonus Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+    "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr",
+    "listened_at": "2026-08-29T20:18:21.149Z"
+  },
+  {
     "key": "https://open.spotify.com/track/57brrmwf9lrcmuosygilwr",
     "name": "Crawling",
     "artist": "Linkin Park",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273061849da201f99053bf5e788",
     "url": "https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s",
     "listened_at": "2026-08-29T19:59:42.541Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/1edpvgbypkjpegqatwxzvn",
-    "name": "The Emptiness Machine",
-    "artist": "Linkin Park",
-    "album": "From Zero",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738be9eeb8f19696ef2fd3b6b4",
-    "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN",
-    "listened_at": "2026-08-29T19:59:38.755Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/1edpvgbypkjpegqatwxzvn",
-    "name": "The Emptiness Machine",
-    "artist": "Linkin Park",
-    "album": "From Zero",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738be9eeb8f19696ef2fd3b6b4",
-    "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN",
-    "listened_at": "2026-08-29T19:56:35.441Z"
   }
 ]
