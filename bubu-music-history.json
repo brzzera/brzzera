@@ -15,6 +15,15 @@
     "album": "Back In Black",
     "image": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
     "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo",
+    "listened_at": "2026-08-29T22:04:05.256Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/2sixay7tuukycrvbbwdepo",
+    "name": "You Shook Me All Night Long",
+    "artist": "AC/DC",
+    "album": "Back In Black",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
+    "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo",
     "listened_at": "2026-08-29T22:00:45.339Z"
   },
   {
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273e6b989211644980d71d4ab7e",
     "url": "https://open.spotify.com/track/3YhrDy6pItihLFz8AJhGpr",
     "listened_at": "2026-08-29T21:48:45.784Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/3yhrdy6pitihlfz8ajhgpr",
-    "name": "Mortals - Slowed",
-    "artist": "Warriyo, Laura Brehm",
-    "album": "Mortals (Sped Up/Slowed)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e6b989211644980d71d4ab7e",
-    "url": "https://open.spotify.com/track/3YhrDy6pItihLFz8AJhGpr",
-    "listened_at": "2026-08-29T21:44:19.733Z"
   }
 ]
