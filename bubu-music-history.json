@@ -1,5 +1,14 @@
 [
   {
+    "key": "https://open.spotify.com/track/5mr858yshyg761auqzogkd",
+    "name": "Symphony Of Destruction - Remastered 2012",
+    "artist": "Megadeth",
+    "album": "Countdown To Extinction (Deluxe Edition - Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734be345f026469be09f12a92e",
+    "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
+    "listened_at": "2026-08-29T18:30:50.294Z"
+  },
+  {
     "key": "https://open.spotify.com/track/00hy9g7otlwd86u3fyzwoh",
     "name": "Estranged",
     "artist": "Guns N' Roses",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273bc93edbcac202118ebfc539b",
     "url": "https://open.spotify.com/track/4JJc1ihyUL0txh6xUiOwDE",
     "listened_at": "2026-08-29T17:50:46.611Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/4fuk2q5eroi97e3g2kwb8c",
-    "name": "NOW OR NEVER",
-    "artist": "Tkandz, CXSPER",
-    "album": "NOW OR NEVER",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a48007fbc868feaa0ce50011",
-    "url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c",
-    "listened_at": "2026-08-29T17:48:07.432Z"
   }
 ]
