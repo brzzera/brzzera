@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/6qasrxpnmsxibv0yejhlex",
+    "name": "Nothing Else Matters - Remastered 2021",
+    "artist": "Metallica",
+    "album": "Metallica (Remastered Deluxe Box Set)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c1a13209dfe146aef3296e34",
+    "url": "https://open.spotify.com/track/6QAsrXPnMSXIbV0yEJHlEX",
+    "listened_at": "2026-08-29T19:28:39.123Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/7866e49slyi938deqxi8a4",
+    "name": "Fade To Black - Remastered",
+    "artist": "Metallica",
+    "album": "Ride The Lightning (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
+    "url": "https://open.spotify.com/track/7866E49sLyI938dEqxi8a4",
+    "listened_at": "2026-08-29T19:28:29.822Z"
+  },
+  {
     "key": "https://open.spotify.com/track/7866e49slyi938deqxi8a4",
     "name": "Fade To Black - Remastered",
     "artist": "Metallica",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b27368384dd85fd5e95831252f60",
     "url": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv",
     "listened_at": "2026-08-29T19:01:15.397Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/0snqkgi5qnamohle7jtstn",
-    "name": "Toxicity",
-    "artist": "System Of A Down",
-    "album": "Toxicity",
-    "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
-    "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
-    "listened_at": "2026-08-29T19:01:04.399Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/0snqkgi5qnamohle7jtstn",
-    "name": "Toxicity",
-    "artist": "System Of A Down",
-    "album": "Toxicity",
-    "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
-    "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
-    "listened_at": "2026-08-29T18:57:38.349Z"
   }
 ]
