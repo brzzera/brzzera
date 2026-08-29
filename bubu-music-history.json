@@ -1,5 +1,14 @@
 [
   {
+    "key": "https://open.spotify.com/track/4tmhaklopmps84lnhntsa3",
+    "name": "Smells Like Teen Spirit - Remastered 2021",
+    "artist": "Nirvana",
+    "album": "Nevermind (30th Anniversary Super Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739aa37e5baca62ca6cc98d056",
+    "url": "https://open.spotify.com/track/4TMhakloPMPS84lNHNTSa3",
+    "listened_at": "2026-08-29T18:49:27.512Z"
+  },
+  {
     "key": "https://open.spotify.com/track/349flwjnbqiae0mph3jlgd",
     "name": "A mais pedida (feat. Érika Martins)",
     "artist": "Raimundos, Érika Martins",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2734be345f026469be09f12a92e",
     "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
     "listened_at": "2026-08-29T18:30:50.294Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/00hy9g7otlwd86u3fyzwoh",
-    "name": "Estranged",
-    "artist": "Guns N' Roses",
-    "album": "Use Your Illusion II",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733a188eee204abd8a9abdaf44",
-    "url": "https://open.spotify.com/track/00hY9G7oTlWd86U3FYzwoH",
-    "listened_at": "2026-08-29T18:30:33.704Z"
   }
 ]
