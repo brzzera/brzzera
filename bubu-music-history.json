@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/61mwefnwqolf90gepjocb3",
+    "name": "Duality",
+    "artist": "Slipknot",
+    "album": "Vol. 3: The Subliminal Verses (Special Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
+    "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3",
+    "listened_at": "2026-08-29T21:40:10.775Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/2n2yrmodonvf10mkvitc9p",
+    "name": "Don't Cry (Original)",
+    "artist": "Guns N' Roses",
+    "album": "Use Your Illusion I",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e44963b8bb127552ac761873",
+    "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P",
+    "listened_at": "2026-08-29T21:39:57.539Z"
+  },
+  {
     "key": "https://open.spotify.com/track/0zehlt9v8cdoku55zhygv9",
     "name": "Don't Cry (Original)",
     "artist": "Guns N' Roses",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2738fa4fa8929bf5eea71a0605b",
     "url": "https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein",
     "listened_at": "2026-08-29T21:23:09.305Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/3udpwoxz9suvve0e1mnsxx",
-    "name": "NIGHTS LIKE THIS",
-    "artist": "The Kid LAROI",
-    "album": "THE FIRST TIME",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f1c781567b8ba35f5312e2cd",
-    "url": "https://open.spotify.com/track/3UDpwoxz9SUvVE0e1mnsxx",
-    "listened_at": "2026-08-29T21:22:54.507Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/1xbyirv30ykhw5f4wm6qen",
-    "name": "NIGHTS LIKE THIS",
-    "artist": "The Kid LAROI",
-    "album": "THE FIRST TIME",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732a182fb516812ea67edde2b8",
-    "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn",
-    "listened_at": "2026-08-29T21:21:35.571Z"
   }
 ]
