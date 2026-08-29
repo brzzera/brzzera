@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/6ols0tmhmsgr0hxtcbsivm",
+    "name": "A Tout Le Monde - Remastered 2004",
+    "artist": "Megadeth",
+    "album": "Youthanasia (Expanded Edition - Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733171798d5cfc745f0ba24c84",
+    "url": "https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM",
+    "listened_at": "2026-08-29T22:18:28.929Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/3lphzqu2czzzjgduwv79si",
+    "name": "For Whom The Bell Tolls - Remastered",
+    "artist": "Metallica",
+    "album": "Ride The Lightning (Deluxe / Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27396a926d07aea417327ea024a",
+    "url": "https://open.spotify.com/track/3LpHzQU2CZzZJGdUWV79SI",
+    "listened_at": "2026-08-29T22:18:16.814Z"
+  },
+  {
     "key": "https://open.spotify.com/track/3lphzqu2czzzjgduwv79si",
     "name": "For Whom The Bell Tolls - Remastered",
     "artist": "Metallica",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680",
     "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq",
     "listened_at": "2026-08-29T22:00:34.393Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/0pqskrtitgmcmyr85tb9qq",
-    "name": "Starman - 2012 Remaster",
-    "artist": "David Bowie",
-    "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680",
-    "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq",
-    "listened_at": "2026-08-29T21:56:23.347Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/349flwjnbqiae0mph3jlgd",
-    "name": "A mais pedida (feat. Érika Martins)",
-    "artist": "Raimundos, Érika Martins",
-    "album": "Só No Forevis",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e654530c95824550c7c9eac1",
-    "url": "https://open.spotify.com/track/349flwjNbqIaE0Mph3jLGD",
-    "listened_at": "2026-08-29T21:56:19.545Z"
   }
 ]
