@@ -9,6 +9,15 @@
     "listened_at": "2026-08-29T22:43:38.600Z"
   },
   {
+    "key": "https://open.spotify.com/track/1zng9uqqxopkmu05nsalsw",
+    "name": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "album": "Keep The Faith",
+    "image": "https://i.scdn.co/image/ab67616d0000b27359bfe048568a969c6f0bd08c",
+    "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw",
+    "listened_at": "2026-08-29T22:43:37.080Z"
+  },
+  {
     "key": "https://open.spotify.com/track/5ac8soek91rtzd06vinzqf",
     "name": "Bed Of Roses",
     "artist": "Bon Jovi",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2733171798d5cfc745f0ba24c84",
     "url": "https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM",
     "listened_at": "2026-08-29T22:18:28.929Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/3lphzqu2czzzjgduwv79si",
-    "name": "For Whom The Bell Tolls - Remastered",
-    "artist": "Metallica",
-    "album": "Ride The Lightning (Deluxe / Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27396a926d07aea417327ea024a",
-    "url": "https://open.spotify.com/track/3LpHzQU2CZzZJGdUWV79SI",
-    "listened_at": "2026-08-29T22:18:16.814Z"
   }
 ]
