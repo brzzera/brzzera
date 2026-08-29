@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/4dmkwe2e2iydky01c335uw",
+    "name": "Carry on Wayward Son",
+    "artist": "Kansas",
+    "album": "Leftoverture (Expanded Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51",
+    "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw",
+    "listened_at": "2026-08-29T23:55:27.750Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/0g21yykmzoha30cyvi1ia8",
+    "name": "Welcome To The Jungle",
+    "artist": "Guns N' Roses",
+    "album": "Appetite For Destruction",
+    "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+    "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8",
+    "listened_at": "2026-08-29T23:55:17.484Z"
+  },
+  {
     "key": "https://open.spotify.com/track/0bvtevegtdierjcjbk3lmv",
     "name": "Welcome To The Jungle",
     "artist": "Guns N' Roses",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
     "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS",
     "listened_at": "2026-08-29T23:35:42.321Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/5lyrtsqlhcxmy50vxhqxxs",
-    "name": "Holy Wars...The Punishment Due - 2004 Remix",
-    "artist": "Megadeth",
-    "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-    "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS",
-    "listened_at": "2026-08-29T23:29:15.303Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/7snqqk1zckl8gz92anuezw",
-    "name": "Sweet Child O' Mine",
-    "artist": "Guns N' Roses",
-    "album": "Appetite For Destruction",
-    "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
-    "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
-    "listened_at": "2026-08-29T23:29:09.193Z"
   }
 ]
