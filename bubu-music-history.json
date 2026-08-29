@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/0snqkgi5qnamohle7jtstn",
+    "name": "Toxicity",
+    "artist": "System Of A Down",
+    "album": "Toxicity",
+    "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
+    "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
+    "listened_at": "2026-08-29T18:57:38.349Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/7vgohxpxpdec3yoyihlupt",
+    "name": "Suicide Solution",
+    "artist": "Ozzy Osbourne",
+    "album": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734936b5b7caeb7524e50fd8cb",
+    "url": "https://open.spotify.com/track/7vGOHxPXPDEc3YOyihLuPt",
+    "listened_at": "2026-08-29T18:57:24.942Z"
+  },
+  {
     "key": "https://open.spotify.com/track/7vgohxpxpdec3yoyihlupt",
     "name": "Suicide Solution",
     "artist": "Ozzy Osbourne",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
     "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN",
     "listened_at": "2026-08-29T18:44:29.921Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/2elsvi4kwwoxgxiic592tj",
-    "name": "We Will Rock You",
-    "artist": "Queen",
-    "album": "News Of The World",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736c74d509c1581f8e0a35391b",
-    "url": "https://open.spotify.com/track/2ELSVi4kwWOXgxiIC592tJ",
-    "listened_at": "2026-08-29T18:44:19.534Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/4pbjqgiasgpr0zpgpnwkdn",
-    "name": "We Will Rock You - Remastered 2011",
-    "artist": "Queen",
-    "album": "News Of The World (2011 Remaster)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731f7077ae1018b5fbab08dfa8",
-    "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-    "listened_at": "2026-08-29T18:42:26.512Z"
   }
 ]
