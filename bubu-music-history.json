@@ -1,5 +1,14 @@
 [
   {
+    "key": "https://open.spotify.com/track/2muwtim3b0yeaskbeefe1i",
+    "name": "Master Of Puppets",
+    "artist": "Metallica",
+    "album": "Master Of Puppets (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273668e3aca3167e6e569a9aa20",
+    "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i",
+    "listened_at": "2026-08-29T20:14:00.517Z"
+  },
+  {
     "key": "https://open.spotify.com/track/1xsyj84j7huddnttergwlh",
     "name": "Dream On",
     "artist": "Aerosmith",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273509342e69eb341df70e5c2e3",
     "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC",
     "listened_at": "2026-08-29T19:51:24.981Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/0coqiphxzowicwfcs4ezcp",
-    "name": "Bring Me To Life",
-    "artist": "Evanescence",
-    "album": "Fallen",
-    "image": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
-    "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
-    "listened_at": "2026-08-29T19:51:16.261Z"
   }
 ]
