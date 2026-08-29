@@ -5,12 +5,11 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/bubu-music-history.yml"
-  schedule:
-    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: bubu-public-music-history
@@ -23,12 +22,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Poll Spotify status
+      - name: Configure git
+        run: |
+          git config user.name "bubu-music-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Collect track changes continuously
         shell: bash
         run: |
           node <<'NODE'
           const fs = require('fs');
+          const { execSync } = require('child_process');
           const SOURCE = 'https://kratoiapi.vercel.app/api/listen-now';
           const FILE = 'bubu-music-history.json';
           const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -39,37 +46,79 @@ jobs:
             history = Array.isArray(raw) ? raw.slice(0, 10) : [];
           } catch {}
 
-          function normalize(raw = {}) {
-            const track = {
-              playing: Boolean(raw.playing),
+          function keyOf(x = {}) {
+            return String(x.key || x.url || `${x.name || ''}|${x.artist || ''}|${x.album || ''}`).toLowerCase();
+          }
+
+          function save() {
+            fs.writeFileSync(FILE, JSON.stringify(history.slice(0, 10), null, 2) + '\n');
+          }
+
+          function pushIfChanged(message) {
+            save();
+            try {
+              execSync(`git add ${FILE}`);
+              execSync('git diff --cached --quiet');
+              return false;
+            } catch {}
+
+            try {
+              execSync(`git commit -m "${message.replace(/"/g, '')}"`, { stdio: 'inherit' });
+              execSync('git push', { stdio: 'inherit' });
+              return true;
+            } catch (err) {
+              console.error('push failed:', err?.message || err);
+              return false;
+            }
+          }
+
+          function backfill(recent = []) {
+            const official = recent
+              .filter(x => x?.name && x?.artist && !x.current && x.listened_at)
+              .map(x => ({
+                key: keyOf(x),
+                name: String(x.name || ''),
+                artist: String(x.artist || ''),
+                album: String(x.album || ''),
+                image: String(x.image || ''),
+                url: String(x.url || ''),
+                listened_at: x.listened_at
+              }));
+
+            const merged = [...history, ...official]
+              .sort((a,b) => new Date(b.listened_at || 0) - new Date(a.listened_at || 0));
+
+            const seen = new Set();
+            history = merged.filter(x => {
+              const id = `${keyOf(x)}|${x.listened_at || ''}`;
+              if (seen.has(id)) return false;
+              seen.add(id);
+              return true;
+            }).slice(0, 10);
+          }
+
+          function addCurrent(raw = {}) {
+            if (!raw.playing || !raw.name || !raw.artist) return false;
+            const key = keyOf(raw);
+            const newest = history[0];
+
+            // Same track still playing: do not create duplicates.
+            if (newest && keyOf(newest) === key) return false;
+
+            history.unshift({
+              key,
               name: String(raw.name || ''),
               artist: String(raw.artist || ''),
               album: String(raw.album || ''),
               image: String(raw.image || ''),
-              url: String(raw.url || '')
-            };
-            track.key = (track.url || `${track.name}|${track.artist}|${track.album}`).toLowerCase();
-            return track;
-          }
-
-          function add(track, listenedAt) {
-            if (!track?.playing || !track.name || !track.artist) return false;
-            const newest = history[0];
-            if (newest?.key === track.key) return false;
-            history.unshift({
-              key: track.key,
-              name: track.name,
-              artist: track.artist,
-              album: track.album,
-              image: track.image,
-              url: track.url,
-              listened_at: listenedAt || new Date().toISOString()
+              url: String(raw.url || ''),
+              listened_at: new Date().toISOString()
             });
             history = history.slice(0, 10);
             return true;
           }
 
-          async function poll() {
+          async function poll(first = false) {
             try {
               const res = await fetch(SOURCE + '?t=' + Date.now(), {
                 cache: 'no-store',
@@ -78,61 +127,37 @@ jobs:
               if (!res.ok) throw new Error('HTTP ' + res.status);
               const data = await res.json();
 
-              // Prefer Spotify's own recently-played list when the token has the scope.
-              if (Array.isArray(data.recent)) {
-                const recent = data.recent
-                  .filter(x => x?.name && x?.artist)
-                  .map(x => ({
-                    key: (x.key || x.url || `${x.name}|${x.artist}|${x.album || ''}`).toLowerCase(),
-                    name: x.name,
-                    artist: x.artist,
-                    album: x.album || '',
-                    image: x.image || '',
-                    url: x.url || '',
-                    listened_at: x.listened_at || new Date().toISOString()
-                  }));
+              // Backfill anything Spotify knows that our collector may have missed.
+              if (Array.isArray(data.recent)) backfill(data.recent);
 
-                const merged = [...recent, ...history]
-                  .sort((a,b) => new Date(b.listened_at || 0) - new Date(a.listened_at || 0));
-                const seen = new Set();
-                history = merged.filter(x => {
-                  const id = `${x.key}|${x.listened_at || ''}`;
-                  if (!x.key || seen.has(id)) return false;
-                  seen.add(id);
-                  return true;
-                }).slice(0,10);
+              const changed = addCurrent(data);
+              if (changed || first) {
+                const name = data.name || 'history';
+                pushIfChanged(`Music: ${name}`);
               }
 
-              add(normalize(data), new Date().toISOString());
-              console.log('Now:', data.name || '(idle)', '-', data.artist || '');
+              console.log(new Date().toISOString(), data.playing ? 'NOW' : 'IDLE', data.name || '', '-', data.artist || '', changed ? '[NEW]' : '');
             } catch (err) {
               console.error('poll failed:', err?.message || err);
             }
           }
 
           (async () => {
-            // About 3m36s of polling, leaving time to commit before the next 5m run.
-            for (let i = 0; i < 13; i++) {
-              await poll();
-              if (i < 12) await sleep(18000);
+            // ~4 minutes, every 15 seconds. Then the workflow starts a fresh run.
+            for (let i = 0; i < 17; i++) {
+              await poll(i === 0);
+              if (i < 16) await sleep(15000);
             }
-            fs.writeFileSync(FILE, JSON.stringify(history.slice(0,10), null, 2) + '\n');
-            console.log('Saved', history.length, 'tracks');
           })().catch(err => {
             console.error(err);
             process.exit(1);
           });
           NODE
 
-      - name: Commit history
-        shell: bash
+      - name: Start next collector run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          git config user.name "bubu-music-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add bubu-music-history.json
-          if git diff --cached --quiet; then
-            echo "No new track."
-            exit 0
-          fi
-          git commit -m "Update bubu music history"
-          git push
+          sleep 5
+          gh workflow run bubu-music-history.yml --repo "${{ github.repository }}"
