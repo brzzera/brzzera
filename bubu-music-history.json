@@ -9,6 +9,15 @@
     "listened_at": "2026-08-29T20:06:12.063Z"
   },
   {
+    "key": "https://open.spotify.com/track/40rioy7x9w7gxjygp4pjav",
+    "name": "Hotel California - 2013 Remaster",
+    "artist": "Eagles",
+    "album": "Hotel California (2013 Remaster)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
+    "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv",
+    "listened_at": "2026-08-29T20:06:10.663Z"
+  },
+  {
     "key": "https://open.spotify.com/track/4vn7tykt27piygbizjtr2s",
     "name": "Hotel California - 2013 Remaster",
     "artist": "Eagles",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2730608a3c6880ab70a40eb7827",
     "url": "https://open.spotify.com/track/74QtGMeYncf3wP6fhg00zb",
     "listened_at": "2026-08-29T19:45:56.950Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/6ulh9gpyz6jkdv04qc3q2u",
-    "name": "Dengo",
-    "artist": "João Gomes",
-    "album": "Digo Ou Não Digo",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c5e141c9a2d4f729a57f2470",
-    "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U",
-    "listened_at": "2026-08-29T19:45:52.401Z"
   }
 ]
