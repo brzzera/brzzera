@@ -1,5 +1,14 @@
 [
   {
+    "key": "https://open.spotify.com/track/1edpvgbypkjpegqatwxzvn",
+    "name": "The Emptiness Machine",
+    "artist": "Linkin Park",
+    "album": "From Zero",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738be9eeb8f19696ef2fd3b6b4",
+    "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN",
+    "listened_at": "2026-08-29T19:56:35.441Z"
+  },
+  {
     "key": "https://open.spotify.com/track/7w6pje5kbpyvuryxfkpssc",
     "name": "No More Tears",
     "artist": "Ozzy Osbourne",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273affbc662fdc4630890d21353",
     "url": "https://open.spotify.com/track/1qamKCfDlcPV44niEiQsOa",
     "listened_at": "2026-08-29T19:39:31.435Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/7aaw6x9ld7c9jqbuyw6vzb",
-    "name": "Mágica",
-    "artist": "Calcinha Preta",
-    "album": "Mágica, Vol. 12",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132",
-    "url": "https://open.spotify.com/track/7AaW6x9Ld7c9JqBuyw6vzB",
-    "listened_at": "2026-08-29T19:39:27.295Z"
   }
 ]
