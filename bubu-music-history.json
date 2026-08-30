@@ -6,6 +6,15 @@
     "album": "From Zero",
     "image": "https://i.scdn.co/image/ab67616d0000b2738be9eeb8f19696ef2fd3b6b4",
     "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN",
+    "listened_at": "2026-08-30T21:11:17.756Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/1edpvgbypkjpegqatwxzvn",
+    "name": "The Emptiness Machine",
+    "artist": "Linkin Park",
+    "album": "From Zero",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738be9eeb8f19696ef2fd3b6b4",
+    "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN",
     "listened_at": "2026-08-30T21:09:08.331Z"
   },
   {
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
     "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox",
     "listened_at": "2026-08-30T20:52:19.914Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/3k4hg9evc7dg3n0r9cyqk4",
-    "name": "One Step Closer",
-    "artist": "Linkin Park",
-    "album": "Hybrid Theory (Bonus Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
-    "url": "https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4",
-    "listened_at": "2026-08-30T20:52:07.082Z"
   }
 ]
