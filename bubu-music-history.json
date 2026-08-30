@@ -6,6 +6,24 @@
     "album": "Get A Grip (Reissue - Remaster)",
     "image": "https://i.scdn.co/image/ab67616d0000b273004e1e2d34b00d05f0a49123",
     "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS",
+    "listened_at": "2026-08-30T18:47:14.497Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/4dmkwe2e2iydky01c335uw",
+    "name": "Carry on Wayward Son",
+    "artist": "Kansas",
+    "album": "Leftoverture (Expanded Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51",
+    "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw",
+    "listened_at": "2026-08-30T18:46:58.556Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/2yswrtcvqzd5k8awt7irns",
+    "name": "Amazing",
+    "artist": "Aerosmith",
+    "album": "Get A Grip (Reissue - Remaster)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273004e1e2d34b00d05f0a49123",
+    "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS",
     "listened_at": "2026-08-30T18:46:58.053Z"
   },
   {
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
     "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr",
     "listened_at": "2026-08-30T18:29:56.263Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/1oeonpiyqbghueuat6je6u",
-    "name": "Patience",
-    "artist": "Guns N' Roses",
-    "album": "Appetite For Destruction (Super Deluxe Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273275b7ffe49eb84ab13a71980",
-    "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U",
-    "listened_at": "2026-08-30T18:29:55.467Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/57brrmwf9lrcmuosygilwr",
-    "name": "Crawling",
-    "artist": "Linkin Park",
-    "album": "Hybrid Theory (Bonus Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
-    "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr",
-    "listened_at": "2026-08-30T18:26:35.484Z"
   }
 ]
