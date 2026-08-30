@@ -6,6 +6,15 @@
     "album": "Shine",
     "image": "https://i.scdn.co/image/ab67616d0000b273d1137f926e9926c04bb34d1c",
     "url": "https://open.spotify.com/track/28nJtITSktvCECziG14oRr",
+    "listened_at": "2026-08-30T02:09:54.810Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/28njtitsktvceczig14orr",
+    "name": "Shine",
+    "artist": "Spektrem",
+    "album": "Shine",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d1137f926e9926c04bb34d1c",
+    "url": "https://open.spotify.com/track/28nJtITSktvCECziG14oRr",
     "listened_at": "2026-08-30T02:07:55.870Z"
   },
   {
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
     "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg",
     "listened_at": "2026-08-30T01:55:56.391Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/3hgwi9qwq5xqbdezbv3zti",
-    "name": "World Hold On (Children of the Sky) - Radio Edit",
-    "artist": "Bob Sinclar, Steve Edwards",
-    "album": "World Hold On (Children of the Sky) [Radio Edit]",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b65ae9724ee6b6c05c3337ad",
-    "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti",
-    "listened_at": "2026-08-30T01:55:42.237Z"
   }
 ]
