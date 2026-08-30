@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/6qasrxpnmsxibv0yejhlex",
+    "name": "Nothing Else Matters - Remastered 2021",
+    "artist": "Metallica",
+    "album": "Metallica (Remastered Deluxe Box Set)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c1a13209dfe146aef3296e34",
+    "url": "https://open.spotify.com/track/6QAsrXPnMSXIbV0yEJHlEX",
+    "listened_at": "2026-08-30T20:43:04.591Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/3lphzqu2czzzjgduwv79si",
+    "name": "For Whom The Bell Tolls - Remastered",
+    "artist": "Metallica",
+    "album": "Ride The Lightning (Deluxe / Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b27396a926d07aea417327ea024a",
+    "url": "https://open.spotify.com/track/3LpHzQU2CZzZJGdUWV79SI",
+    "listened_at": "2026-08-30T20:43:01.968Z"
+  },
+  {
     "key": "https://open.spotify.com/track/3lphzqu2czzzjgduwv79si",
     "name": "For Whom The Bell Tolls - Remastered",
     "artist": "Metallica",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
     "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
     "listened_at": "2026-08-30T20:19:15.163Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/08mg3y1vljya6bvdt4wqkj",
-    "name": "Back In Black",
-    "artist": "AC/DC",
-    "album": "Back In Black",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
-    "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
-    "listened_at": "2026-08-30T20:15:02.337Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/18lr4bzes7e3qzc0kvktpu",
-    "name": "What I've Done",
-    "artist": "Linkin Park",
-    "album": "Minutes to Midnight",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213",
-    "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU",
-    "listened_at": "2026-08-30T20:14:58.608Z"
   }
 ]
