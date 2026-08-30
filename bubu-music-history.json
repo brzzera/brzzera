@@ -15,6 +15,15 @@
     "album": "One-X",
     "image": "https://i.scdn.co/image/ab67616d0000b273e773763694ac5eb7f2aa0a37",
     "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b",
+    "listened_at": "2026-08-30T19:00:57.678Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/56sk7jbpzv0cd31g9heu3b",
+    "name": "Animal I Have Become",
+    "artist": "Three Days Grace",
+    "album": "One-X",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e773763694ac5eb7f2aa0a37",
+    "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b",
     "listened_at": "2026-08-30T18:57:07.694Z"
   },
   {
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51",
     "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw",
     "listened_at": "2026-08-30T18:41:48.132Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/5hhegdf1cb4rk0fniedcfk",
-    "name": "The Devil in I",
-    "artist": "Slipknot",
-    "album": ".5: The Gray Chapter (Special Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273eed722040c6810f7a7da93ea",
-    "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK",
-    "listened_at": "2026-08-30T18:41:35.023Z"
   }
 ]
