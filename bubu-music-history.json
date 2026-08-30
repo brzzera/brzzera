@@ -6,6 +6,24 @@
     "album": "Appetite For Destruction (Super Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d0000b273275b7ffe49eb84ab13a71980",
     "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U",
+    "listened_at": "2026-08-30T18:30:13.553Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/57brrmwf9lrcmuosygilwr",
+    "name": "Crawling",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (Bonus Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+    "url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr",
+    "listened_at": "2026-08-30T18:29:56.263Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/1oeonpiyqbghueuat6je6u",
+    "name": "Patience",
+    "artist": "Guns N' Roses",
+    "album": "Appetite For Destruction (Super Deluxe Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273275b7ffe49eb84ab13a71980",
+    "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U",
     "listened_at": "2026-08-30T18:29:55.467Z"
   },
   {
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2736239187793c9e492e687db01",
     "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG",
     "listened_at": "2026-08-30T18:11:59.492Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/58xwgx7knnkknehdprcprx",
-    "name": "Rock You Like A Hurricane",
-    "artist": "Scorpions",
-    "album": "Love At First Sting",
-    "image": "https://i.scdn.co/image/ab67616d0000b273926764eed4da16a86b9ce33e",
-    "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX",
-    "listened_at": "2026-08-30T18:11:47.939Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/58xwgx7knnkknehdprcprx",
-    "name": "Rock You Like A Hurricane",
-    "artist": "Scorpions",
-    "album": "Love At First Sting",
-    "image": "https://i.scdn.co/image/ab67616d0000b273926764eed4da16a86b9ce33e",
-    "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX",
-    "listened_at": "2026-08-30T18:07:36.891Z"
   }
 ]
