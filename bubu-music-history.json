@@ -6,6 +6,24 @@
     "album": "Transformers: Revenge Of The Fallen The Album",
     "image": "https://i.scdn.co/image/ab67616d0000b273148cd93cd936ee29cb4db587",
     "url": "https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd",
+    "listened_at": "2026-08-30T19:26:46.208Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/0wsa1suconrceeullzvqxj",
+    "name": "Can You Feel My Heart",
+    "artist": "Bring Me The Horizon",
+    "album": "Sempiternal (Expanded Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273566acaba72c5509e3887c4b0",
+    "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj",
+    "listened_at": "2026-08-30T19:26:30.560Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/6wx88mv6b9ofjkmkkdwojd",
+    "name": "New Divide",
+    "artist": "Linkin Park",
+    "album": "Transformers: Revenge Of The Fallen The Album",
+    "image": "https://i.scdn.co/image/ab67616d0000b273148cd93cd936ee29cb4db587",
+    "url": "https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd",
     "listened_at": "2026-08-30T19:26:29.560Z"
   },
   {
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
     "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB",
     "listened_at": "2026-08-30T19:08:28.867Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/02xhlovqpgmoqvolgrwm8w",
-    "name": "One",
-    "artist": "Metallica",
-    "album": "…And Justice for All (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fe896727e3db1027ed72d885",
-    "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
-    "listened_at": "2026-08-30T19:08:24.353Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/02xhlovqpgmoqvolgrwm8w",
-    "name": "One",
-    "artist": "Metallica",
-    "album": "…And Justice for All (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fe896727e3db1027ed72d885",
-    "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
-    "listened_at": "2026-08-30T19:00:59.548Z"
   }
 ]
