@@ -9,6 +9,15 @@
     "listened_at": "2026-08-30T20:07:34.404Z"
   },
   {
+    "key": "https://open.spotify.com/track/1zng9uqqxopkmu05nsalsw",
+    "name": "Bed Of Roses",
+    "artist": "Bon Jovi",
+    "album": "Keep The Faith",
+    "image": "https://i.scdn.co/image/ab67616d0000b27359bfe048568a969c6f0bd08c",
+    "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw",
+    "listened_at": "2026-08-30T20:07:33.659Z"
+  },
+  {
     "key": "https://open.spotify.com/track/5ac8soek91rtzd06vinzqf",
     "name": "Bed Of Roses",
     "artist": "Bon Jovi",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2734384b6976cadaec272114022",
     "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3",
     "listened_at": "2026-08-30T19:44:55.940Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/07q0qvgo56eorrsghc48y3",
-    "name": "I Was Made For Lovin' You",
-    "artist": "KISS",
-    "album": "Dynasty",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734384b6976cadaec272114022",
-    "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3",
-    "listened_at": "2026-08-30T19:40:26.615Z"
   }
 ]
