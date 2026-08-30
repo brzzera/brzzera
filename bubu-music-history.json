@@ -1,5 +1,14 @@
 [
   {
+    "key": "https://open.spotify.com/track/02xhlovqpgmoqvolgrwm8w",
+    "name": "One",
+    "artist": "Metallica",
+    "album": "…And Justice for All (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fe896727e3db1027ed72d885",
+    "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
+    "listened_at": "2026-08-30T19:00:59.548Z"
+  },
+  {
     "key": "https://open.spotify.com/track/56sk7jbpzv0cd31g9heu3b",
     "name": "Animal I Have Become",
     "artist": "Three Days Grace",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273eed722040c6810f7a7da93ea",
     "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK",
     "listened_at": "2026-08-30T18:41:35.023Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/5hhegdf1cb4rk0fniedcfk",
-    "name": "The Devil in I",
-    "artist": "Slipknot",
-    "album": ".5: The Gray Chapter (Special Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273eed722040c6810f7a7da93ea",
-    "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK",
-    "listened_at": "2026-08-30T18:36:07.811Z"
   }
 ]
