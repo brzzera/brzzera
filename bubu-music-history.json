@@ -9,6 +9,15 @@
     "listened_at": "2026-08-30T19:40:26.615Z"
   },
   {
+    "key": "https://open.spotify.com/track/3s03nruinn3navjqtmns0o",
+    "name": "Estranged",
+    "artist": "Guns N' Roses",
+    "album": "Use Your Illusion II",
+    "image": "https://i.scdn.co/image/ab67616d0000b27392d21aef6c0d288cc4c05973",
+    "url": "https://open.spotify.com/track/3s03nrUInN3NAVjQtmnS0O",
+    "listened_at": "2026-08-30T19:40:24.157Z"
+  },
+  {
     "key": "https://open.spotify.com/track/00hy9g7otlwd86u3fyzwoh",
     "name": "Estranged",
     "artist": "Guns N' Roses",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b27375e6375e11550746705a9645",
     "url": "https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8",
     "listened_at": "2026-08-30T19:17:46.062Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/0g21yykmzoha30cyvi1ia8",
-    "name": "Welcome To The Jungle",
-    "artist": "Guns N' Roses",
-    "album": "Appetite For Destruction",
-    "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
-    "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8",
-    "listened_at": "2026-08-30T19:17:37.501Z"
   }
 ]
