@@ -1,5 +1,14 @@
 [
   {
+    "key": "https://open.spotify.com/track/07q0qvgo56eorrsghc48y3",
+    "name": "I Was Made For Lovin' You",
+    "artist": "KISS",
+    "album": "Dynasty",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734384b6976cadaec272114022",
+    "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3",
+    "listened_at": "2026-08-30T19:40:26.615Z"
+  },
+  {
     "key": "https://open.spotify.com/track/00hy9g7otlwd86u3fyzwoh",
     "name": "Estranged",
     "artist": "Guns N' Roses",
@@ -79,14 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
     "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8",
     "listened_at": "2026-08-30T19:17:37.501Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/0bvtevegtdierjcjbk3lmv",
-    "name": "Welcome To The Jungle",
-    "artist": "Guns N' Roses",
-    "album": "Appetite For Destruction",
-    "image": "https://i.scdn.co/image/ab67616d0000b27368384dd85fd5e95831252f60",
-    "url": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv",
-    "listened_at": "2026-08-30T19:13:07.757Z"
   }
 ]
