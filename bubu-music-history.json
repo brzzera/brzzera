@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/6wqjeitl3vc3az4zicsqab",
+    "name": "Before I Forget",
+    "artist": "Slipknot",
+    "album": "Vol. 3: The Subliminal Verses (Special Edition)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736b3463e7160d333ada4b175a",
+    "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB",
+    "listened_at": "2026-08-30T19:08:28.867Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/02xhlovqpgmoqvolgrwm8w",
+    "name": "One",
+    "artist": "Metallica",
+    "album": "…And Justice for All (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fe896727e3db1027ed72d885",
+    "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
+    "listened_at": "2026-08-30T19:08:24.353Z"
+  },
+  {
     "key": "https://open.spotify.com/track/02xhlovqpgmoqvolgrwm8w",
     "name": "One",
     "artist": "Metallica",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51",
     "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw",
     "listened_at": "2026-08-30T18:46:58.556Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/2yswrtcvqzd5k8awt7irns",
-    "name": "Amazing",
-    "artist": "Aerosmith",
-    "album": "Get A Grip (Reissue - Remaster)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273004e1e2d34b00d05f0a49123",
-    "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS",
-    "listened_at": "2026-08-30T18:46:58.053Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/4dmkwe2e2iydky01c335uw",
-    "name": "Carry on Wayward Son",
-    "artist": "Kansas",
-    "album": "Leftoverture (Expanded Edition)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51",
-    "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw",
-    "listened_at": "2026-08-30T18:41:48.132Z"
   }
 ]
