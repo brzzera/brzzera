@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/0kish3tobj6wq0we74343q",
+    "name": "Always",
+    "artist": "Bon Jovi",
+    "album": "Cross Road",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739c716f4180e184d81f5103b2",
+    "url": "https://open.spotify.com/track/0kish3Tobj6Wq0we74343q",
+    "listened_at": "2026-08-30T00:59:57.953Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/2vpz4lklyu75zbr3sgbfni",
+    "name": "Snuff",
+    "artist": "Slipknot",
+    "album": "All Hope Is Gone (10th Anniversary)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e7fbc0883149094912559f2c",
+    "url": "https://open.spotify.com/track/2vPZ4Lklyu75zBR3SgbFNI",
+    "listened_at": "2026-08-30T00:59:47.651Z"
+  },
+  {
     "key": "https://open.spotify.com/track/2vpz4lklyu75zbr3sgbfni",
     "name": "Snuff",
     "artist": "Slipknot",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b27381e0d9617e70d75e7ae11fa6",
     "url": "https://open.spotify.com/track/15DLl1r2zi07Ssq5RT1yT0",
     "listened_at": "2026-08-30T00:44:20.028Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/15dll1r2zi07ssq5rt1yt0",
-    "name": "Wait and Bleed",
-    "artist": "Slipknot",
-    "album": "Slipknot",
-    "image": "https://i.scdn.co/image/ab67616d0000b27381e0d9617e70d75e7ae11fa6",
-    "url": "https://open.spotify.com/track/15DLl1r2zi07Ssq5RT1yT0",
-    "listened_at": "2026-08-30T00:41:54.572Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/5mr858yshyg761auqzogkd",
-    "name": "Symphony Of Destruction - Remastered 2012",
-    "artist": "Megadeth",
-    "album": "Countdown To Extinction (Deluxe Edition - Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2734be345f026469be09f12a92e",
-    "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
-    "listened_at": "2026-08-30T00:41:51.645Z"
   }
 ]
