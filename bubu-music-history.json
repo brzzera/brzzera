@@ -1,5 +1,23 @@
 [
   {
+    "key": "https://open.spotify.com/track/2cbgl1ehr1d9xbqnmraqb4",
+    "name": "Crazy",
+    "artist": "Aerosmith",
+    "album": "Get A Grip (Reissue - Remaster)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273004e1e2d34b00d05f0a49123",
+    "url": "https://open.spotify.com/track/2cBGl1Ehr1D9xbqNmraqb4",
+    "listened_at": "2026-08-30T00:08:38.189Z"
+  },
+  {
+    "key": "https://open.spotify.com/track/624ra5mdiibqvfydk4yhmo",
+    "name": "Mulher de fases",
+    "artist": "Raimundos",
+    "album": "Só No Forevis",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e654530c95824550c7c9eac1",
+    "url": "https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo",
+    "listened_at": "2026-08-30T00:08:27.275Z"
+  },
+  {
     "key": "https://open.spotify.com/track/624ra5mdiibqvfydk4yhmo",
     "name": "Mulher de fases",
     "artist": "Raimundos",
@@ -70,23 +88,5 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273c1a13209dfe146aef3296e34",
     "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T",
     "listened_at": "2026-08-29T23:50:43.464Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/5ltxodlli0rfzamoxbap5t",
-    "name": "Sad But True - Remastered 2021",
-    "artist": "Metallica",
-    "album": "Metallica (Remastered Deluxe Box Set)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c1a13209dfe146aef3296e34",
-    "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T",
-    "listened_at": "2026-08-29T23:45:25.238Z"
-  },
-  {
-    "key": "https://open.spotify.com/track/60a5c4ddarpsksclcom0od",
-    "name": "Amazing",
-    "artist": "Aerosmith",
-    "album": "Get A Grip",
-    "image": "https://i.scdn.co/image/ab67616d0000b27391b246743456e285a20a46ed",
-    "url": "https://open.spotify.com/track/60a5c4dDARPsksClcom0OD",
-    "listened_at": "2026-08-29T23:45:18.339Z"
   }
 ]
